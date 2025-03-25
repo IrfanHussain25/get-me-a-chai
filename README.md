@@ -38,6 +38,7 @@ npm run dev
 Now, open http://localhost:3000 in your browser.
 
 ## 🤝 Contributing
+
 Contributions are welcome! If you’d like to improve the project:
 
 - Fork the repository
